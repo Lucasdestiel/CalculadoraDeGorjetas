@@ -1,3 +1,3 @@
 Projeto start na carreira da OneBitCode - calculadora de gorjetas utilizando Html, Css e JavaScript.
-O projeto foi finalizad, porem ainda esta passando por melhorias
-caso queri ajudar por favor fique a vontade =)
+O projeto foi finalizado, porem ouve alguns problemas e ainda esta passando por melhorias
+caso queira ajudar por favor fique a vontade =)
